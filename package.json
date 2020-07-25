@@ -1,0 +1,19 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "This is my assignment submission where I was tasked to create an application that manages a company's employees using node, inquirer, and MySQL.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjihaduddin00/Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjihaduddin00/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/mjihaduddin00/Employee-Tracker#readme"
+}
